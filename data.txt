@@ -1,3 +1,1 @@
-23:35 21.12.2019|Here comes the tweet!
-23:36 21.12.2019|Here comes another the tweet!
-23:47 21.12.2019|And one more tweet!
+04:00 23.12.2019|I made some Twitter automation: https://github.com/Weltraumschaf/twitternator
